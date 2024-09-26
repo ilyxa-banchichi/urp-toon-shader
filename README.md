@@ -1,5 +1,10 @@
 # Toon Shader for Unity URP
 
+### Fork Installation
+```
+https://github.com/ilyxa-banchichi/urp-toon-shader-2022.git?path=Packages/com.deltation.toon-shader
+```
+
 A toon shader compatible with the Universal Render Pipeline.
 
 > ⚠️ The repository is no longer actively maintained.
